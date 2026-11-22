@@ -18,6 +18,7 @@ Naast mijn maatschappelijke werkzaamheden verken ik hoe digitale hulpmiddelen, A
 **[Persoonlijk portfolio](https://borninsuriname.github.io/)** – centrale startpagina voor mijn openbare projecten.
 
 **Openbare repositories:**
+- [AI Workflow Studio – AI & Automation Lab](https://github.com/BornInSuriname/ai-automation-lab) – mobielvriendelijke opdrachtbouwer; [probeer de webtool](https://borninsuriname.github.io/ai-automation-lab/).
 - [Campagnewebsite Fabian Vroom – Zuidoost](https://github.com/BornInSuriname/Fabian-Vroom-ZuidOost) – historisch project uit de verkiezingscampagne van 2026.
 - [Fabian Zuidoost](https://github.com/BornInSuriname/Fabian-Zuidoost) – andere versie van de campagnewebsite, eveneens archief.
 
